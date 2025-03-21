@@ -1,0 +1,12 @@
+// _fonts.scss
+
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+// Define font families
+$font-primary: 'Roboto', sans-serif;
+
+// Usage example
+body {
+    font-family: $font-primary;
+}
