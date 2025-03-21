@@ -1,0 +1,15 @@
+{
+  "name": "reciepe-book",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel js/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.12.7"
+  }
+}
